@@ -1,2 +1,2 @@
 # blog-image
-Store as blog posts only
+Store as blog image only
